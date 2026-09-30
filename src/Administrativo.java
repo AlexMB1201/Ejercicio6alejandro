@@ -1,2 +1,2 @@
-public class Administrativo extends Empleado{
+public class Administrativo {
 }
